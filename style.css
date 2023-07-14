@@ -1,0 +1,8 @@
+
+
+div{display: flex;justify-content: space-around;}
+
+@import url(https://fonts.googleapis.com/css?family=Michroma&display=swap);
+div h1{font-size: 50px; font-family: 'Michroma',serif;}
+.rd {color: red;}
+#seven{font-weight: 700;color: rgb(197, 194, 18);}
